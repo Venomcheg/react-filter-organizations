@@ -1,0 +1,18 @@
+.modal-form{
+  &__content--text {
+    margin-bottom: 25px;
+  }
+  &__approve-text {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+  }
+&__address {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 19px;
+  text-align: center;
+}
+}

@@ -1,0 +1,33 @@
+.header {
+  padding-top: 20px;
+  margin-bottom: 20px;
+  &__wrapper {
+    display: flex;
+    justify-content: space-between;
+  align-items: center;
+  }
+  &__input-wrapper {
+    position: relative;
+    width: 100%;
+    &:before{
+      content: '';
+      position: absolute;
+      display: block;
+      z-index: 1;
+      top: 0.9rem;
+      left: 1rem;
+      width: 1.5rem;
+      height: 15px;
+      background: url("../../assets/images/698956-icon-111-search-512.webp") no-repeat;
+      background-size: 1.5rem;
+    }
+  }
+  &__search{
+    position: relative;
+    padding-left: 35px;
+    border-radius: 15px;
+
+    max-width: 300px;
+
+  }
+}
