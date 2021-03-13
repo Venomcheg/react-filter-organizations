@@ -16,7 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbe04aee-c48c-4841-9977-b7dff03570db" name="Default Changelist" comment="" />
+    <list default="true" id="fbe04aee-c48c-4841-9977-b7dff03570db" name="Default Changelist" comment="Finish filter organizations project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +63,7 @@
       <workItem from="1615382308417" duration="18780000" />
       <workItem from="1615481781347" duration="59268000" />
       <workItem from="1615637837823" duration="59000" />
+      <workItem from="1615639538669" duration="738000" />
     </task>
     <servers />
   </component>
@@ -97,6 +98,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finish filter organizations project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish filter organizations project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="826" y="222" key="SettingsEditor" timestamp="1615481802096">
